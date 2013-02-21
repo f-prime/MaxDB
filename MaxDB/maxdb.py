@@ -16,7 +16,7 @@ class MaxDB:
                 }
         self.users = {
 
-                "root":"461408"
+                "":""
 
                 }
     def main_loop(self):
